@@ -55,6 +55,9 @@ SpartaWars는 Unity 4기 A04조 사기치조의 2D 횡스크롤 디펜스 게임
 # 🎥 플레이 영상
 https://www.youtube.com/watch?v=VkfVenv9qlU
 
+# ⬇️ 게임 다운로드
+https://drive.google.com/file/d/1Fg2afUwuRyrWdG07Zkfw5MECnEG907sO/view?usp=sharing
+
 <br/><br/>
 
 # 🗓버전 업데이트
